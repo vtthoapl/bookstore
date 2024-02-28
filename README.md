@@ -1,5 +1,6 @@
 # bookstore : an application using svelte & sveltekit
-# link how to use git & github tutotial on github: https://www.youtube.com/watch?v=jhtbhSpV5YA
+# link how to use git & github tutorial on github: https://www.youtube.com/watch?v=jhtbhSpV5YA
+# link to another tutorial from Omnia course: https://www.youtube.com/watch?v=DVRQoVRzMIY&list=PLZe9xILmMOdtq-O6SHcPm2I-sh3kiTw6v&index=10&t=2s
 
 # some advices from my experienced friends for team work on github:
 
