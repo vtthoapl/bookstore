@@ -9,4 +9,5 @@
 
 3. "Once a conflict occurs, it's recommended to Google how to handle it and resolve the conflict through Git rather than handling it manually."
 
-# Adding some changes for testing purposes (Isabel branch)
+# Adding some changes for testing purposes
+# One more change to make sure
