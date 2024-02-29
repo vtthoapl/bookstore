@@ -1,4 +1,5 @@
-# bookstore : an application using svelte & sveltekit
+ bookstore : this is for git practicing group. welcome to make the messa at the moment
+
 # link how to use git & github tutorial on github: https://www.youtube.com/watch?v=jhtbhSpV5YA
 # link to another tutorial from Omnia course: https://www.youtube.com/watch?v=DVRQoVRzMIY&list=PLZe9xILmMOdtq-O6SHcPm2I-sh3kiTw6v&index=10&t=2s
 
@@ -10,4 +11,3 @@
 
 3. "Once a conflict occurs, it's recommended to Google how to handle it and resolve the conflict through Git rather than handling it manually."
 
-# just for testing purpose 
