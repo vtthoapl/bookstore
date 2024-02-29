@@ -3,5 +3,15 @@ body {
 }
 
 p{
-    color: red;
+    color:rgb(229, 147, 161);
+    font-size: 16px;
+}
+section {
+    background-color: #486171;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(69, 245, 245);
 }
