@@ -12,8 +12,6 @@ bookstore : this is for git practicing group. welcome to make the messa at the m
 2. "Before committing or pushing, remember to run 'git status' or 'git branch' to ensure that you're on the correct branch. Working on the wrong branch can lead to conflicts."
 
 3. "Once a conflict occurs, it's recommended to Google how to handle it and resolve the conflict through Git rather than handling it manually."
-=======
-this is a fun project to have a mess
 
 
 
