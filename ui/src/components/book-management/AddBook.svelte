@@ -30,3 +30,4 @@
 <label for="isbn">ISBN:</label>
 <input type="text" id="isbn" name="isbn" bind:value={isbn} /><br />
 <button on:click={addBook}>Add</button>
+
