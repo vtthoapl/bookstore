@@ -1,4 +1,5 @@
 <script>
+  import "../app.css";
   import { onMount } from 'svelte';
   import { initBooks } from '../stores/books.svelte.js';
   
@@ -8,5 +9,4 @@
     document.body.classList.add('ready-for-testing');
   });
 </script>
-
 <slot />
